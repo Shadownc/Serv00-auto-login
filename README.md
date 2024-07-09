@@ -11,8 +11,8 @@ Serv00控制面板自动登录脚本
 ]
 ```
 > 其中`panelnum`参数为面板编号，即为你所收到注册邮件的`panel*.serv00.com`中的`*`数值。
->
-> ## SSH登录不上
+
+## SSH登录不上
 
 > 登录不上是因为Ban IP, 点击此处解锁： [Ban](https://www.serv00.com/ip_unban/)
 
