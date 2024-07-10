@@ -1,4 +1,4 @@
-# -Serv00-auto-login
+# Serv00-auto-login
 Serv00控制面板自动登录脚本
 
 ## 使用方法
